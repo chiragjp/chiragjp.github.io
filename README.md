@@ -1,4 +1,4 @@
 chiragjp.github.io
 ==================
 
-Chirag Group Website
+Chirag J Patel Group Website
