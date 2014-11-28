@@ -97,9 +97,11 @@ ul#menu li a:hover {
     min-height: 300px;
 }
 
-ul#resources li {
+
+ul#resource li {
     padding: 5px;
 }
+
 
 #footer {
     clear: both;
