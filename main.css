@@ -140,6 +140,10 @@ ul#resource li {
     margin-right: 5px;
 }
 
+.bottom {
+	margin-bottom: 50px;
+}
+
 .former-member {
   width: 250px;
   margin-bottom: 0px;
