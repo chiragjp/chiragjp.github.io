@@ -1,2 +1,5 @@
 URL: Harvard
 images for publications?
+Resized images using this tool:
+https://computing.artsci.wustl.edu/help/web/resize-images-web
+(to 120 by 120)
