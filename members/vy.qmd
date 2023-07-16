@@ -1,0 +1,11 @@
+---
+title: "Vy Nguyen, PhD"
+subtitle: "Post-doctoral Fellow"
+description: "Exposome and cancer"
+author: "Chirag"
+date: "1/7/2023"
+image: /img/vy.jpg
+categories:
+  - exposome
+  - cancer
+---

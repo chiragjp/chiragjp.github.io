@@ -1,0 +1,58 @@
+---
+title: "About us"
+email-obfuscation: references
+about:
+  image: /img/countway.jpg
+  template: trestles
+---
+
+## Contact us
+
+{{< fa envelope >}}:[chirag@hms.harvard.edu](mailto:chirag@hms.harvard.edu)
+
+{{< fa brands twitter >}}:[@chiragjp](https://twitter.com/chiragjp)
+
+
+
+## Current Research Support
+- [National Institutes of Health](https://reporter.nih.gov/PISearch/9643320)
+
+-   [NIEHS R01](https://reporter.nih.gov/project-details/10487388) ES032470
+
+-   [NIA RF1](https://reporter.nih.gov/project-details/10448053) AG074372
+
+## Past Research Support
+
+-   [NIAID R01](https://reporter.nih.gov/project-details/9892947) AI127250
+
+-   [NIDDK T32](https://reporter.nih.gov/project-details/9773034) DK110919
+
+- National Science Foundation
+-   NIEHS R21, K99/R00
+
+
+[Harvard Data Science Institute](https://datascience.harvard.edu)
+
+[Harvard-Chan NIEHS Center](https://www.hsph.harvard.edu/niehs/).
+
+We have had compute and infrastructural support from Sanofi, Amazon Web Services, Microsoft Azure, Oracle Cloud, and Google.
+
+## Office Location
+
+We are part of the [Department of Biomedical Informatics](http://dbmi.med.harvard.edu/) at [Harvard Medical School](http://hms.harvard.edu/).
+
+Countway Library
+
+10 Shattuck Street, Office 302
+
+Boston, MA. 02115
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.342346297109!2d-71.10577814893294!3d42.33522394456005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3798eb5fa4e8d%3A0x693bc4b9eb02581a!2s10%20Shattuck%20St%2C%20Boston%2C%20MA%2002115!5e0!3m2!1sen!2sus!4v1673303062635!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
+
+This website is built with [Quarto](https://quarto.org). 
+
+::: {layout-ncol="1"}
+![](img/Blavatnikbioinformatics.png){width="600"}
+:::

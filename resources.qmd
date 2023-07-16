@@ -1,0 +1,55 @@
+---
+title: Resources and Software
+---
+
+## Data and Findings
+
+#### [Claims Analysis of Twins Correlation and Heritability](http://apps.chiragjpgroup.org/catch/)
+
+We estimate the relative contribution of genetics and shared exposome in 560 phenotypes in a large health insurance cohort analyzing data from \~60,000 twins and \~500,000 siblings.
+
+#### [Machine Learning and Biological Age](https://www.multidimensionality-of-aging.net)
+
+Biological age is the deviation from chronological age and is hypothesized to be one causal factor for age-related disease. Biological age, however, is difficult to measure. Here, we analyzed 676,787 samples from 502,211 UK Biobank participants aged 37-82 years with deep learning artificial intelligence approaches to build a total of 331 biological age predictors on different data modalities (e.g., Magnetic Resonance Imaging).
+
+### Exposure-wide studies
+
+#### [HIV+ Exposure-wide study across Sub-Saharan Africa](https://www.chiragjpgroup.org/dhs_hiv_meta/)
+
+Predisposition to become HIV positive (HIV + ) is influenced by a wide range of correlated economic, environmental, demographic, social, and behavioral factors. A data-driven approach to identify risk factors for HIV+ in across Sub-Saharan Africa in over 600,000 individuals.
+
+#### [Non-linear relationships between physiological indicators and all-cause mortality](https://chiragjp.shinyapps.io/%20nhanes_mortality_associations/)
+
+We document linear and non-linear relationships of 27 physiological indicators with all-cause mortality to evaluate whether the current clinical thresholds are suitable in distinguishing patients at high risk for mortality from those at low risk.
+
+#### [Data-driven characterization of exposome risk variables for type 2 diabetes](https://chiragjp.shinyapps.io/t2d_relative_risk_variables/)
+
+#### [Exposome Globe Browser](http://bit.ly/globebrowse)
+
+What is the "linkage disequilibrium" of the exposome? View how biomarkers of exposures are correlated with one another and disease-related phenotypes.
+
+#### [RepoDB](http://apps.chiragjpgroup.org/repoDB/)
+
+Developing new computational approach for predicting new drug repositioning candidates? Test your predictions with our standard database for drug repositioning. GitHub
+
+#### [MeshDD](http://apps.chiragjpgroup.org/MeSHDD/)
+
+MeSHDD uses MeSH-term enrichment to discover literature-based similarities between FDA approved drugs.
+
+## Software
+
+### [Vibration of Effects](https://www.chiragjpgroup.org/voe/)
+
+How do inferences change based on the parameters of statistical models? Estimate the distribution of association sizes, and p-values based on model selection, called the Vibration of Effects (VoE).
+
+1.  {{< fa brands github >}} [Journal of Clinical Epidemiology 2016: Mortality](https://github.com/chiragjp/voe)
+2.  {{< fa brands github >}} [PLOS Biology 2022 Microbiome](https://github.com/chiragjp/microbiome_voe)
+3.  {{< fa brands github >}} [PLOS Biology 2021: Data-driven for quantitative phenotypes](https://github.com/chiragjp/quantvoe) (quantvoe)
+
+#### [Polyexposure Risk Scores (PXS) via PXSTools](https://github.com/yixuanh/PXStools)
+
+PXStools provides an analytical package to standardize exposome-wide studies as well as derive and validate polyexposure risk scores. {{< fa brands github >}} [PXSTools](https://github.com/yixuanh/PXStools)
+
+## Course Materials
+
+{{< fa brands github >}} Course materials and starter code for exposome-phenome data analysis.

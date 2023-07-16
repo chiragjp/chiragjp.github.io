@@ -1,0 +1,18 @@
+---
+title: "Pedram Fard, PhD"
+subtitle: "Post-doctoral Fellow"
+description: "Geospatial data science and climate"
+author: "Chirag"
+image: /img/pedram.jpg
+date: "1/7/2023"
+categories:
+  - exposome
+  - data-science
+  - geospatial
+  - climate
+about:
+  template: trestles
+  image: /img/pedram.jpg
+---
+
+<https://dbmi.hms.harvard.edu/people/pedram-fard>

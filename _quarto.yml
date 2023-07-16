@@ -1,0 +1,44 @@
+project:
+  type: website
+
+website:
+  title: "Chirag Patel's Group"
+  favicon: "img/logo.png"
+  navbar:
+    background: light
+    right:
+      - href: index.qmd
+        text: Home
+      - href: members.qmd
+        text: The Group
+      - href: resources.qmd
+        text: Resources
+      - href: pubs.qmd
+        text: Publications
+      - href: about.qmd
+        text: About
+      - icon: twitter
+        href: https://twitter.com/chiragjp
+        aria-label: Twitter
+  page-footer:
+    left: 
+      - text: "&copy; Chirag J Patel 2023"
+        href: https://dbmi.hms.harvard.edu/people/chirag-patel
+      - text: Google Scholar
+        href: https://scholar.google.com/citations?user=Ecjx73cAAAAJ
+      - icon: github
+        href: https://github.com/chiragjp
+      - icon: twitter
+        href: https://twitter.com/chiragjp
+        aria-label: Twitter
+  search: false
+      
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    fontsize: 1em
+
+editor: visual
+

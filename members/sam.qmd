@@ -1,0 +1,12 @@
+---
+title: "Sam Zimmerman"
+subtitle: "PhD Student (Biological and Biomedical Sciences)"
+description: "Metagenomics and diabetes"
+author: "Chirag"
+image: /img/sam.jpg
+date: "1/7/2023"
+categories:
+  - metagenome
+  - microbiome
+  - diabetes
+---

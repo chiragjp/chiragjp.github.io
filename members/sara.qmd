@@ -1,0 +1,11 @@
+---
+title: "Sara Cromer, MD"
+subtitle: "Post-doctoral Fellow"
+description: "Diabetes and health disparities"
+author: "Chirag"
+image: /img/sara.png
+date: "1/9/2023"
+categories:
+  - health disparities
+  - diabetes
+---

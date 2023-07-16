@@ -1,0 +1,78 @@
+---
+title: ""
+tbl-colwidths: [25,15,60]
+listing:
+  id: current-members
+  contents: members
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle, description]
+  categories: false
+---
+
+## PhD trainees and post-doctoral associates
+
+::: {#current-members}
+:::
+
+## Undergraduates
+
+|                  |           |                 |
+|-----------------:|-----------|-----------------|
+|     Margaret Yin | 2022-     | Harvard College |
+| Harkirat Bhullar | 2022-2023 | Harvard College |
+
+## [Summer Institute of Biomedical Informatics](https://dbmi.hms.harvard.edu/education/summer-institute-biomedical-informatics)
+
+|                         |       |                                                                                                                               |
+|-----------------|-----------------|--------------------------------------|
+| Sivateja Tangirala      | 2016- | Cornell University (now a MBI Student at [Harvard MBI](https://dbmi.hms.harvard.edu/education/master-biomedical-informatics)) |
+| Christina Baek          | 2017  | UC Berkeley (Now a CS PhD student Carnegie Mellon University)                                                                 |
+| Rolando Acosta Jr, PhD  | 2016  | University of Puerto Rico, Humacao (PhD at Harvard Chan School of Public Health, now a biostatistician at Regeneron)          |
+| Shreyas Bhave           | 2016  | UC Berkeley (Now a BMI PhD student Columbia University)                                                                       |
+| Sanket Mehta            | 2018  | Rice University (Now a MD/PhD student at Columbia University)                                                                 |
+| Jessie Chen             | 2019  | Loyola University (Now a MD student, Loyola University Chicago)                                                               |
+| Jason Tan               | 2019  | Rice University (Now a CS PhD student, Stanford University)                                                                   |
+| Elizabeth Cook Anderson | 2021  | Brigham Young University (Now a Quantitative Biology PhD student Dartmouth University)                                        |
+| Nuno Carvalho           | 2022- | Georgia Tech University                                                                                                       |
+| Taykhoom Dalal          | 2022- | UCLA                                                                                                                          |
+| Johnathan Shih          | 2022- | Texas A&M                                                                                                                     |
+| Chloe McCreery          | 2022- | MIT                                                                                                                           |
+
+## Master's Students
+
+|                          |         |                                                                                                                                                                                        |
+|----------------:|-----------------|--------------------------------------|
+| Kajal Claypool, MBI, PhD | 2017-   | [Masters of Biomedical Informatics](https://dbmi.hms.harvard.edu/education/master-biomedical-informatics) (now group leader at MIT Lincoln Labs)                                       |
+|        Grace Mahoney, MS | 2015-18 | [Bioinformatics and Integrative Genomics](https://gsas.harvard.edu/programs-of-study/all/bioinformatics-and-integrative-genomics) (now a consultant at McKinsey)                       |
+|  Undina Gisladottir, MBI | 2018    | [Masters of Biomedical Informatics](https://dbmi.hms.harvard.edu/education/master-biomedical-informatics) (now PhD Student at Columbia MBI)                                            |
+|        Yeran Li, MS, PhD | 2016-17 | [Masters of Biostatistics](https://www.hsph.harvard.edu/biostatistics/masters-programs/) (now a director at Merck)                                                                     |
+|          Shuhei Miyasaka | 2018    | [Masters of Biostatistics](https://www.hsph.harvard.edu/biostatistics/masters-programs/) (now a biostatistician at IQVIA)                                                              |
+|      Jean-Baptiste Prost | 2020    | [Masters of Life Sciences Engineering](https://www.epfl.ch/education/master/programs/life-sciences-engineering/), Ecole Polytechnique federale de Lausanne, Lausanne Switzerland       |
+|              Caiwei Tian | 2022-   | [Masters of Data Science](https://seas.harvard.edu/applied-computation/graduate-programs/masters-data-science), Harvard University, Paulson School of Engineering and Applied Sciences |
+|          Estelle Reynard | 2022-   | [Masters of Data Science](https://www.epfl.ch/education/master/programs/data-science/), Ecole Polytechnique federale de Lausanne, Lausanne Switzerland                                 |
+|           Charlyne Burki | 2022-   | [Masters of Data Science](https://www.epfl.ch/education/master/programs/data-science/), Ecole Polytechnique federale de Lausanne, Lausanne Switzerland                                 |
+|               Yumin Wang | 2022-   | [Masters of Biomedical Informatics](https://dbmi.hms.harvard.edu/education/master-biomedical-informatics), Harvard Medical School (now PhD student at USC)                             |
+
+## Alumni
+
+### PhD Students
+
+|                                                                                |         |                                                                                                                                                                                                 |
+|-----------------:|------------------|------------------------------------|
+|                 [Adam Brown, PhD](https://www.linkedin.com/in/adam-sam-brown/) | 2015-17 | [Biological and Biomedical Sciences](https://gsas.harvard.edu/programs-of-study/all/biological-and-biomedical-sciences) (now at QuartzBio)                                                      |
+| [Alan Le Goallec, PhD](https://www.linkedin.com/in/alan-le-goallec-758a02126/) | 2016-21 | [Systems, Synthetic, and Quantitative Biology](Systems,%20Synthetic,%20and%20Quantitative%20Biology) (now a data scientist at Quantum Black/McKinsey)                                           |
+|                           [Braden Tierney, PhD](https://www.bradentierney.com) | 2017-21 | [Biological and Biomedical Sciences](https://gsas.harvard.edu/programs-of-study/all/biological-and-biomedical-sciences) (now at post-doc in Chris Mason's group, Weill Cornell Medical College) |
+|         [Danielle Rasooly, PhD](https://www.linkedin.com/in/danielle-rasooly/) | 2015-20 | [Bioinformatics and Integrative Genomics](https://gsas.harvard.edu/programs-of-study/all/bioinformatics-and-integrative-genomics) (now post-doc in Brigham and Women's Hospital)                |
+|           [Yixuan He, PhD](https://www.atgu.mgh.harvard.edu/people/yixuan-he/) | 2019-22 | [Bioinformatics and Integrative Genomics](https://gsas.harvard.edu/programs-of-study/all/bioinformatics-and-integrative-genomics) (now post-doc in Alicia Martin's group, Broad Institute)      |
+|                                                      Tom van der Meer, MD, PhD | 2020-21 | [University of Groningen](https://www.researchgate.net/profile/Tom-Van-Der-Meer) (now a clinical fellow in Utrecht, Netherlands)                                                                |
+
+### Post-Doctoral Fellows
+
+|                                                                    |           |                                                                                                                                             |
+|----------------:|-----------------|--------------------------------------|
+|                    [Dena Zeraatkar, PhD](https://www.denazera.com) | 2020-22   | [Banting Fellow, CIHR](https://banting.fellowships-bourses.gc.ca/en/2019-2020-eng.html) (now an Assistant Professor at McMaster University) |
+|                  [Chirag Lakhani, PhD](https://cmlakhan.github.io) | 2014-20   | Now staff scientist, New York Genome Center                                                                                                 |
+| [Ming-Kei (Jake) Chung, PhD](https://www.linkedin.com/in/jakemkc/) | 2016-2023 | Now an Assistant Professor at Chinese University, Hong Kong                                                                                 |
+
+### 

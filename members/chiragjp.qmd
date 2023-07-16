@@ -1,0 +1,38 @@
+---
+title: "Chirag J Patel"
+subtitle: "Principal Investigator"
+description: "Associate Professor of Biomedical Informatics"
+author: "Chirag"
+date: "12/11/2022"
+image: /img/chirag.jpg
+categories:
+  - exposome
+  - genome
+  - meta-research
+  - diabetes
+  - machine-learning
+  - data-science
+about:
+  template: trestles
+  image: /img/chirag.jpg
+---
+
+My long-term research goal is to address problems in human health and disease by developing computational and bioinformatics methods to reproducibly and efficiently reason over high-throughput data streams spanning molecules to populations. Patel's group aims to dissect inter-individual differences in human *phenomes* through strategies that integrate data sources that capture the comprehensive clinical experience (e.g., through the electronic medical record), the complex phenomena of environmental exposure (e.g., high-throughput measures of the *exposome*), and inherited genomic variation. He received his doctorate in biomedical informatics from Stanford University.
+
+### Courses Taught:
+
+#### [**Data Science for Medical Decision Making (Spring Term)**](https://dbmi.hms.harvard.edu/education/courses/bmi-704)
+
+#### [**Artificial Intelligence in Medicine (Fall Term, 2024)**](https://dbmi.hms.harvard.edu/education/phd-program/aim-phd-track)
+
+### Addresses:
+
+Countway Library
+
+10 Shattuck Street
+
+Boston, MA. 02115
+
+chirag\@hms.harvard.edu
+
+[\@chiragjp](https://twitter.com/chiragjp)

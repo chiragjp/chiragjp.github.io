@@ -1,0 +1,12 @@
+---
+title: "Aashna Shah"
+subtitle: "PhD Student (Systems Biology)"
+description: "Machine learning of lung function"
+author: "Chirag"
+image: /img/aashna.png
+date: "1/10/2023"
+categories:
+  - health disparties
+  - machine learning
+  - lung disease
+---

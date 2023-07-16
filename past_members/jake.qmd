@@ -1,0 +1,17 @@
+---
+title: "Jake (Ming-Kei) Chung, PhD"
+subtitle: "Post-doctoral Fellow"
+description: "Exposome and precision medicine"
+author: "Chirag"
+date: "12/12/2022"
+image: /img/Jakemk.jpg
+categories:
+  - exposome
+  - meta-research
+  - data-science
+about:
+  template: trestles
+  image: /img/jakemk.jpg
+---
+
+[Ming Kei (Jake) Chung](https://connects.catalyst.harvard.edu/Profiles/display/Person/152893 "View Harvard Catalyst Profile in new window") earned his PhD in Environmental Health Sciences at the University of California, Berkeley where he received training at the Center for Exposure Biology to develop novel tools for exposure assessment.  He has a long-term research interest to understand how environmental and genetic factors interplay and affect human health and disease. Since graduation, he has been involved in exposomics and epidemiological studies elucidating the relationships between complex environmental exposures and subtle molecular changes.  Realizing the analytical challenges to get an integrated perspective on massive omics data, he joined the Patel Group to further polish his bioinformatics skills.  Current projects include analyzing metabolome-wide data to investigate the diurnal effects on truck drivers and studying the pregnancy exposome in collaboration with NICHD.  By combining the wet lab experience and dry lab skills, he is hoping to develop a new generation of exposome-wide association study (ExWAS) method for discovering the unknown causes of common human diseases.
