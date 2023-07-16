@@ -39,6 +39,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    mainfont: "Helvetica Neue"
     fontsize: 1em
 
 editor: visual
