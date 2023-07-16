@@ -18,15 +18,21 @@ Biological age is the deviation from chronological age and is hypothesized to be
 
 Predisposition to become HIV positive (HIV + ) is influenced by a wide range of correlated economic, environmental, demographic, social, and behavioral factors. A data-driven approach to identify risk factors for HIV+ in across Sub-Saharan Africa in over 600,000 individuals.
 
-#### [Non-linear relationships between physiological indicators and all-cause mortality](https://chiragjp.shinyapps.io/%20nhanes_mortality_associations/)
+#### [Non-linear relationships between physiological indicators and all-cause mortality in the US](https://chiragjp.shinyapps.io/%20nhanes_mortality_associations/)
 
 We document linear and non-linear relationships of 27 physiological indicators with all-cause mortality to evaluate whether the current clinical thresholds are suitable in distinguishing patients at high risk for mortality from those at low risk.
 
-#### [Data-driven characterization of exposome risk variables for type 2 diabetes](https://chiragjp.shinyapps.io/t2d_relative_risk_variables/)
+#### [Data-driven characterization of exposome risk variables for type 2 diabetes in the Netherlands](https://chiragjp.shinyapps.io/t2d_relative_risk_variables/)
+
+We query for environmental and modifiable drivers of tpe 2 diabetes risk in the Lifelines Biobank Cohort.
+
 
 #### [Exposome Globe Browser](http://bit.ly/globebrowse)
 
 What is the "linkage disequilibrium" of the exposome? View how biomarkers of exposures are correlated with one another and disease-related phenotypes.
+
+
+### Drug databases
 
 #### [RepoDB](http://apps.chiragjpgroup.org/repoDB/)
 
@@ -48,7 +54,7 @@ How do inferences change based on the parameters of statistical models? Estimate
 
 #### [Polyexposure Risk Scores (PXS) via PXSTools](https://github.com/yixuanh/PXStools)
 
-PXStools provides an analytical package to standardize exposome-wide studies as well as derive and validate polyexposure risk scores. {{< fa brands github >}} [PXSTools](https://github.com/yixuanh/PXStools)
+PXStools provides an analytical package to standardize exposome-wide studies as well as derive and validate polyexposure risk scores in the UK Biobank. {{< fa brands github >}} [PXSTools](https://github.com/yixuanh/PXStools)
 
 ## Course Materials
 

@@ -4,6 +4,7 @@ project:
 website:
   title: "Chirag Patel's Group"
   favicon: "img/logo.png"
+  google-analytics: "G-QRGRZ5HCRW"
   navbar:
     background: light
     right:
