@@ -17,7 +17,7 @@ about:
   image: /img/chirag.jpg
 ---
 
-My long-term research goal is to address problems in human health and disease by developing computational and bioinformatics methods to reproducibly and efficiently reason over high-throughput data streams spanning molecules to populations. Our groupaims to dissect inter-individual differences in human *phenomes* through strategies that integrate data sources that capture the comprehensive clinical experience, the complex phenomena of environmental exposure (e.g., high-throughput measures of the *exposome*), and inherited genomic variation. I received his PhD and MS in biomedical informatics from [Stanford University in Biomedical Informatics](https://med.stanford.edu/bmi.html).
+My long-term research goal is to address problems in human health and disease by developing computational and bioinformatics methods to efficiently reason over high-throughput data streams spanning molecules to populations. We aim to dissect inter-individual differences in human *phenomes* through strategies that integrate data sources that capture the comprehensive clinical experience, the complex phenomena of environmental exposure (e.g., high-throughput measures of the *exposome*), and inherited genomic variation. I received my PhD and MS in biomedical informatics from [Stanford University in Biomedical Informatics](https://med.stanford.edu/bmi.html).
 
 ### Courses Taught:
 

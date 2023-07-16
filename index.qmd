@@ -4,13 +4,13 @@ title: "Mapping the connections between the exposome and phenome"
 
 ![](img/logo.png){style="float: right;" fig-alt="dots logo that says \"Data Science of Exposome\"" fig-align="right" width="150"}
 
-The long-term research goal of [Chirag Patel's Group](https://dbmi.hms.harvard.edu/people/chirag-patel) is to solve problems in human health and disease by developing bioinformatics approaches to reason over large-scale environmental exposure and genomic information spanning molecules to populations.
+The long-term research goal of [Chirag Patel's Group](https://dbmi.hms.harvard.edu/people/chirag-patel) is to solve problems in human health and disease by developing computational & statistical approaches to reason over large-scale environmental exposure and genomic data.
 
 ### Untangling exposures, genotypes, and phenotypes
 
-Who we are \-- our **phenotype** \-- is determined by the interplay between our [genomes](https://en.wikipedia.org/wiki/Human_genome) and [exposomes](http://en.wikipedia.org/wiki/Exposome "https://www.cdc.gov/niosh/topics/exposome/default.html"), defined as the totality of non-genetic factors experienced from birth to death, which includes drugs, diet, infectious agents, extreme temperature, and pollutants.
+Who we are \-- **phenotype** \-- is determined by the interplay between our [genome](https://en.wikipedia.org/wiki/Human_genome) and [exposome](http://en.wikipedia.org/wiki/Exposome "https://www.cdc.gov/niosh/topics/exposome/default.html").  The exposome is a complement of the genome, consisting of the totality of non-genetic factors of behavior and our environment, including dietary nutrients, lifestyle, infectious agents, pollutants, and extreme temperature.
 
-**We attempt to dissect the relationship between the genome and exposome in complex phenotypes** by deploying high-throughput [data science](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-082516-012737) and [machine learning](https://www.multidimensionality-of-aging.net) approaches in large data such as [electronic health records](http://apps.chiragjpgroup.org/catch/), biobanks, and epidemiological cohorts, integrating [exposure monitoring](https://pubs.acs.org/doi/abs/10.1021/acs.est.8b01467), [multi-omic measurements](https://ehp.niehs.nih.gov/doi/10.1289/EHP8327) of exposure, the [microbiome](https://www.nature.com/articles/s41467-021-23029-8), and [genome sequence information](http://genomemedicine.com/content/5/6/58), attaining a data-driven picture of human phenotypes, such as diabetes.
+**We attempt to dissect the relationship between the genome and exposome in complex phenotypes** by using [data science](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-082516-012737) and [machine learning](https://www.multidimensionality-of-aging.net) approaches in large scale data such as [electronic health records](http://apps.chiragjpgroup.org/catch/), [biobanks](https://doi.org/10.1093/ije/dyac216), and [real-world data](https://diabetesjournals.org/care/article/46/7/1316/151548), integrating [exposure monitoring](https://pubs.acs.org/doi/abs/10.1021/acs.est.8b01467), [multi-omic measurements](https://ehp.niehs.nih.gov/doi/10.1289/EHP8327) to ultimately create a comprehensive map of human health.
 
 [![Patel et al, JAMA 2014](img/corr_globes.jpg){fig-align="center"}](https://jamanetwork.com/journals/jama/article-abstract/1877218)
 
@@ -18,15 +18,15 @@ Who we are \-- our **phenotype** \-- is determined by the interplay between our�
 
 Are findings from high-throughput exposomic and genomic research clinically or biologically useful? For example, after many years of diet-related investigation, including our own [here](https://www.ahajournals.org/doi/full/10.1161/circulationaha.112.114058) and [here](https://www.acpjournals.org/doi/full/10.7326/M19-1621?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org), it is a challenge to navigate findings on what the optimal diet might be. **How can we do the best job possible to ensure big data science is translatable?**
 
-We develop computer intensive approaches to make big data based findings more robust to accelerate [meta science](https://en.wikipedia.org/wiki/Metascience), or the "science of science". We use these data approaches to study how and why we come to the conclusions that we do and if these conclusions are robust or reproducible. For example, "vibration of effects" attempts to estimate how much arbitrary big data choices can [change the outcome of a study and decision making](https://www.chiragjpgroup.org/voe/)! 
+We develop computer intensive approaches to make big data based findings more robust to accelerate [meta science](https://en.wikipedia.org/wiki/Metascience), or the "science of science". We use these data approaches to study how and why we come to the conclusions that we do and if these conclusions are robust. For example, "vibration of effects" attempts to estimate how much arbitrary big data choices can [change the outcome of a study and decision making](https://www.chiragjpgroup.org/voe/)! 
 
 ### Investigating disease-related phenotypes: diabetes, dementia, and aging
 
-Phenotypes such as [diabetes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0010746), [biological age](https://www.nature.com/articles/s41467-022-29525-9), and dementia are ripe for exposomic discovery. We are developing approaches to identify the causal environmental determinants -- and predictors -- of these complex phenotypes and diseases. We are also investigating whether utilization of care are made worse by extreme environmental events, [particularly among the aged](https://reporter.nih.gov/project-details/10448053).
+Phenotypes such as [diabetes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0010746), [biological age](https://www.nature.com/articles/s41467-022-29525-9), and dementia are ripe for discovery. We are also investigating whether utilization of care are made worse by extreme environmental events, [particularly among the aged](https://reporter.nih.gov/project-details/10448053).
 
 ### Affiliations
 
-We are part of the [Department of Biomedical Informatics](http://dbmi.med.harvard.edu/) at [Harvard Medical School](http://hms.harvard.edu/). Chirag Patel is a mentor in DBMI's educational programs, including:
+We are part of the [Department of Biomedical Informatics](http://dbmi.med.harvard.edu/) at [Harvard Medical School](http://hms.harvard.edu/). Chirag Patel participates in DBMI's educational programs, including:
 
 -   [Artificial Intelligence in Medicine](https://dbmi.hms.harvard.edu/education/phd-program/aim-phd-track),
 -   [Bioinformatics and Integrative Genomics](https://bigphd.hms.harvard.edu),
