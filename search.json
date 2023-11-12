@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Mapping the connections between the exposome and phenome",
     "section": "",
-    "text": "The long-term research goal of Chirag Patel’s Group is to solve problems in human health and disease by developing computational & statistical approaches to reason over large-scale environmental exposure and genomic data.\n\nUntangling exposures, genotypes, and phenotypes\nWho we are -- our phenotype -- is determined by the interplay between our genome and exposome. The exposome is a complement of the genome, consisting of the totality of non-genetic factors of behavior and our environment, including dietary nutrients, lifestyle, infectious agents, pollutants, and extreme temperature.\nWe attempt to dissect the relationship between the genome and exposome in complex phenotypes by using data science and machine learning approaches in large scale data such as electronic health records, biobanks, and real-world data, integrating exposure monitoring, multi-omic measurements to ultimately create a comprehensive map of human health.\n\n\n\nPatel et al, JAMA 2014\n\n\n\n\nMeta-Science: research on research\nAre findings from high-throughput exposomic and genomic research clinically or biologically useful? For example, after many years of diet-related investigation, including our own here and here, it is a challenge to navigate findings on what the optimal diet might be. How can we do the best job possible to ensure big data science is translatable?\nWe develop computer intensive approaches to make big data based findings more robust to accelerate meta science, or the “science of science”. We use these data approaches to study how and why we come to the conclusions that we do and if these conclusions are robust. For example, “vibration of effects” attempts to estimate how much arbitrary big data choices can change the outcome of a study and decision making! \n\n\nInvestigating disease-related phenotypes: diabetes, dementia, and aging\nPhenotypes such as diabetes, biological age, and dementia are ripe for discovery. We are also investigating whether utilization of care are made worse by extreme environmental events, particularly among the aged.\n\n\nAffiliations\nWe are part of the Department of Biomedical Informatics at Harvard Medical School. Chirag Patel participates in DBMI’s educational programs, including:\n\nArtificial Intelligence in Medicine,\nBioinformatics and Integrative Genomics,\nMaster’s in Biomedical Informatics,\nSummer Institute in Biomedical Informatics\n\n\n\nSupport\nWe are or havee been funded by the National Institutes of Health, the National Science Foundation, the Harvard Data Science Institute, and the Harvard-Chan NIEHS Center. We are thankful for the compute and infrastructural support from Sanofi, Amazon Web Services, Microsoft Azure, Oracle Cloud, and Google."
+    "text": "The long-term research goal of Chirag Patel’s Group is to solve problems in human health and disease by developing computational & statistical approaches to reason over large-scale environmental exposure and genomic data.\n\nUntangling exposures, genotypes, and phenotypes\nWho we are -- our phenotype -- is determined by the interplay between our genome and exposome. The exposome is a complement of the genome, consisting of the totality of non-genetic factors of behavior and our environment, including dietary nutrients, lifestyle, infectious agents, pollutants, and extreme temperature.\nWe attempt to dissect the relationship between the genome and exposome in complex phenotypes by using data science and machine learning approaches in large scale data such as electronic health records, biobanks, and real-world data, integrating exposure monitoring, multi-omic measurements to ultimately create a comprehensive map of human health.\n\n\n\nPatel et al, JAMA 2014\n\n\n\n\nMeta-Science: research on research\nAre findings from high-throughput exposomic and genomic research clinically or biologically useful? For example, after many years of diet-related investigation, including our own here and here, it is a challenge to navigate findings on what the optimal diet might be. How can we do the best job possible to ensure big data science is translatable?\nWe develop computer intensive approaches to make big data based findings more robust to accelerate meta science, or the “science of science”. We use these data approaches to study how and why we come to the conclusions that we do and if these conclusions are robust. For example, “vibration of effects” attempts to estimate how much arbitrary big data choices can change the outcome of a study and decision making! \n\n\nInvestigating disease-related phenotypes: diabetes, dementia, and aging\nPhenotypes such as diabetes, biological age, and dementia are ripe for discovery. We are also investigating whether utilization of care are made worse by extreme environmental events, particularly among the aged.\n\n\nAffiliations\nWe are part of the Department of Biomedical Informatics at Harvard Medical School. Chirag Patel participates in DBMI’s educational programs, including:\n\nArtificial Intelligence in Medicine,\nBioinformatics and Integrative Genomics,\nMaster’s in Biomedical Informatics,\nSummer Institute in Biomedical Informatics\n\n\n\nSupport\nWe are or have been funded by the National Institutes of Health, the National Science Foundation, the Harvard Data Science Institute, and the Harvard-Chan NIEHS Center. We are thankful for the compute and infrastructural support from Sanofi, Amazon Web Services, Microsoft Azure, Oracle Cloud, and Google."
   },
   {
     "objectID": "about.html",
@@ -107,35 +107,35 @@
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "Resources and Software",
+    "title": "Resources",
     "section": "",
     "text": "We estimate the relative contribution of genetics and shared exposome in 560 phenotypes in a large health insurance cohort analyzing data from ~60,000 twins and ~500,000 siblings."
   },
   {
     "objectID": "resources.html#exposure-wide-studies",
     "href": "resources.html#exposure-wide-studies",
-    "title": "Resources and Software",
+    "title": "Resources",
     "section": "Exposure-wide studies",
     "text": "Exposure-wide studies\n\nExposome Globe Browser\nWhat is the “linkage disequilibrium” of the exposome? View how biomarkers of exposures are correlated with one another and disease-related phenotypes.\n\n\nHIV+ Exposure-wide study across Sub-Saharan Africa\nPredisposition to become HIV positive (HIV + ) is influenced by a wide range of correlated economic, environmental, demographic, social, and behavioral factors. A data-driven approach to identify risk factors for HIV+ in across Sub-Saharan Africa in over 600,000 individuals.\n\n\nNon-linear relationships between physiological indicators and all-cause mortality in the US\nWe document linear and non-linear relationships of 27 physiological indicators with all-cause mortality to evaluate whether the current clinical thresholds are suitable in distinguishing patients at high risk for mortality from those at low risk.\n\n\nData-driven characterization of exposome risk variables for type 2 diabetes in the Netherlands\nWe query for environmental and modifiable drivers of tpe 2 diabetes risk in the Lifelines Biobank Cohort."
   },
   {
     "objectID": "resources.html#databases",
     "href": "resources.html#databases",
-    "title": "Resources and Software",
+    "title": "Resources",
     "section": "Databases",
     "text": "Databases\n\nRepoDB\nDeveloping new computational approach for predicting new drug repositioning candidates? Test your predictions with our standard database for drug repositioning.\n\n\nMeshDD\nMeSHDD uses MeSH-term enrichment to discover literature-based similarities between FDA approved drugs."
   },
   {
     "objectID": "resources.html#software",
     "href": "resources.html#software",
-    "title": "Resources and Software",
+    "title": "Resources",
     "section": "Software",
     "text": "Software\n\nVibration of Effects\nHow do inferences change based on the parameters of statistical models? Estimate the distribution of association sizes, and p-values based on model selection, called the Vibration of Effects (VoE).\n\n Journal of Clinical Epidemiology 2016: Mortality\n PLOS Biology 2022 Microbiome\n PLOS Biology 2021: Data-driven for quantitative phenotypes (quantvoe)\n\n\nPolyexposure Risk Scores (PXS) via PXSTools\nPXStools provides an analytical package to standardize exposome-wide studies as well as derive and validate polyexposure risk scores in the UK Biobank.  PXSTools"
   },
   {
     "objectID": "resources.html#course-materials",
     "href": "resources.html#course-materials",
-    "title": "Resources and Software",
+    "title": "Resources",
     "section": "Course Materials",
     "text": "Course Materials\n Course materials and starter code for exposome-phenome data analysis."
   }
