@@ -1,0 +1,17 @@
+---
+title: "Randy Ellis, PhD"
+subtitle: "Post-doctoral Fellow"
+description: "Multi-scale/meta-science approaches to dissect brain aging"
+author: "Chirag"
+image: /img/randy.jpg
+date: "11/11/2023"
+categories:
+  - neuroscience
+  - meta-science
+  - dementia
+  - aging 
+about:
+  template: trestles
+  image: /img/randy.jpg
+---
+<https://randalljellis.github.io>

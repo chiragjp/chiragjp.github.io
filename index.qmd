@@ -35,7 +35,7 @@ We are part of the [Department of Biomedical Informatics](http://dbmi.med.harva
 
 ### Support
 
-We are or havee been funded by the [National Institutes of Health](https://reporter.nih.gov/PISearch/9643320), the National Science Foundation, the [Harvard Data Science Institute](https://datascience.harvard.edu), and the [Harvard-Chan NIEHS Center](https://www.hsph.harvard.edu/niehs/). We are thankful for the compute and infrastructural support from Sanofi, Amazon Web Services, Microsoft Azure, Oracle Cloud, and Google.
+We are or have been funded by the [National Institutes of Health](https://reporter.nih.gov/PISearch/9643320), the National Science Foundation, the [Harvard Data Science Institute](https://datascience.harvard.edu), and the [Harvard-Chan NIEHS Center](https://www.hsph.harvard.edu/niehs/). We are thankful for the compute and infrastructural support from Sanofi, Amazon Web Services, Microsoft Azure, Oracle Cloud, and Google.
 
 ::: {layout-ncol="1"}
 ![](img/Blavatnikbioinformatics.png){width="600"}

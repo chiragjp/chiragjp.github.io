@@ -1,17 +1,20 @@
 ---
-title: Resources and Software
+title: Resources
 ---
 
+### [Machine Learning and Biological Age](https://www.multidimensionality-of-aging.net)
+
+Biological age is the deviation from chronological age and is hypothesized to be one causal factor for age-related disease. Biological age, however, is difficult to measure. Here, we analyzed 676,787 samples from 502,211 UK Biobank participants aged 37-82 years with deep learning artificial intelligence approaches to build a total of 331 biological age predictors on different data modalities (e.g., Magnetic Resonance Imaging)
+
+### [The Confluence Projects](https://www.confluence-project.org)
+
+Analytics and data resources to study the geospatial exposome in exacerbating health outcomes of the elderly population.
+
+## Exposure-wide studies
 
 ### [Claims Analysis of Twins Correlation and Heritability](http://apps.chiragjpgroup.org/catch/)
 
 We estimate the relative contribution of genetics and shared exposome in 560 phenotypes in a large health insurance cohort analyzing data from \~60,000 twins and \~500,000 siblings.
-
-### [Machine Learning and Biological Age](https://www.multidimensionality-of-aging.net)
-
-Biological age is the deviation from chronological age and is hypothesized to be one causal factor for age-related disease. Biological age, however, is difficult to measure. Here, we analyzed 676,787 samples from 502,211 UK Biobank participants aged 37-82 years with deep learning artificial intelligence approaches to build a total of 331 biological age predictors on different data modalities (e.g., Magnetic Resonance Imaging).
-
-## Exposure-wide studies
 
 ### [Exposome Globe Browser](http://bit.ly/globebrowse)
 
@@ -29,12 +32,11 @@ We document linear and non-linear relationships of 27 physiological indicators w
 
 We query for environmental and modifiable drivers of tpe 2 diabetes risk in the Lifelines Biobank Cohort.
 
-
 ## Databases
 
 ### [RepoDB](http://apps.chiragjpgroup.org/repoDB/)
 
-Developing new computational approach for predicting new drug repositioning candidates? Test your predictions with our standard database for drug repositioning. 
+Developing new computational approach for predicting new drug repositioning candidates? Test your predictions with our standard database for drug repositioning.
 
 ### [MeshDD](http://apps.chiragjpgroup.org/MeSHDD/)
 

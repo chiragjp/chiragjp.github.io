@@ -23,7 +23,7 @@ website:
         aria-label: Twitter
   page-footer:
     left: 
-      - text: "&copy; Chirag J Patel 2023"
+      - text: "&copy; Chirag J Patel"
         href: https://dbmi.hms.harvard.edu/people/chirag-patel
       - text: Google Scholar
         href: https://scholar.google.com/citations?user=Ecjx73cAAAAJ

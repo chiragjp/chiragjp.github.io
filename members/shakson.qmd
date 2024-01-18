@@ -1,0 +1,12 @@
+---
+title: "Shakson Isaac"
+subtitle: "PhD Student (Bionformatics and Integrative Genomics)"
+description: "gene-by-environment interactions"
+author: "Chirag"
+image: /img/shakson.jpg
+date: "1/7/2023"
+categories:
+  - hertibility
+  - gene-by-exposome
+  - multi-omics
+---
