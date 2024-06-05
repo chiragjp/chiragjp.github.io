@@ -1,6 +1,5 @@
 # Publications
 
-
 Check out [Harvard Catalyst](https://connects.catalyst.harvard.edu/Profiles/display/Person/122979) or [Google Scholar](https://scholar.google.com/citations?user=Ecjx73cAAAAJ&hl=en&authuser=1 "Google Scholar for Chirag Patel's group") for an updated list!
 
 ![A ChatGPT-4 representation of our publications](img/dallepubs2.png){fig-align="center" width="512"}
@@ -60,7 +59,6 @@ Check out [Harvard Catalyst](https://connects.catalyst.harvard.edu/Profiles/disp
 27. Tierney BT, Tan Y, Yang Z, Shui B, Walker MJ, Kent BM, Kostic AD, Patel CJ. Systematically assessing microbiome-disease associations identifies drivers of inconsistency in metagenomic research. PLoS Biol. 2022 03; 20(3):e3001556. PMID: 35235560; PMCID: PMC8890741
 
 28. Siontis GCM, Sweda R, Noseworthy PA, Friedman PA, Siontis KC, Patel CJ. Development and validation pathways of artificial intelligence tools evaluated in randomised clinical trials. BMJ Health Care Inform. 2021 Dec; 28(1). PMID: 34969668; PMCID: PMC8718483
-
 
 29. Walker DI, Hart JE, Patel CJ, Rudel R, Chu JH, Garshick E, Pennell KD, Laden F, Jones DP. Integrated molecular response of exposure to traffic-related pollutants in the US trucking industry. Environ Int. 2022 01; 158:106957. PMID: 34737152; PMCID: PMC9624233
 

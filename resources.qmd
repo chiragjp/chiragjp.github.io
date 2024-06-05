@@ -10,7 +10,11 @@ Biological age is the deviation from chronological age and is hypothesized to be
 
 Analytics and data resources to study the geospatial exposome in exacerbating health outcomes of the elderly population.
 
-## Exposure-wide studies
+### [Probing the space of COVID-19 non-pharmaceutical interventions](https://eranbendavid.shinyapps.io/CovidGovPolicies/ "Multiverse of COVID-19")
+
+We use a "multiverse approach" to evaluate the role of non-pharmaceutical inventions deployed during the pandemic to assess what worked and what didn't. TL;DR: not enough data.
+
+## Exposome-wide studies
 
 ### [Claims Analysis of Twins Correlation and Heritability](http://apps.chiragjpgroup.org/catch/)
 
