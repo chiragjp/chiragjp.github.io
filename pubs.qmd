@@ -1,5 +1,5 @@
 ---
-title: "Featured Publications"
+title: ""
 listing:
   id: main-listing
   contents: posts
@@ -10,6 +10,7 @@ listing:
   fields: [image, date, title]
 ---
 
+# Featured Publications
 ::: {#main-listing}
 :::
 
