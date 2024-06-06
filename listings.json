@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/pubs.html",
+    "items": [
+      "/posts/oped.html"
+    ]
+  },
+  {
     "listing": "/members.html",
     "items": [
       "/members/chiragjp.html",
