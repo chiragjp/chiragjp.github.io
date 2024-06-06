@@ -12,7 +12,7 @@ Analytics and data resources to study the geospatial exposome in exacerbating he
 
 ### [Probing the space of COVID-19 non-pharmaceutical interventions](https://eranbendavid.shinyapps.io/CovidGovPolicies/ "Multiverse of COVID-19")
 
-We use a "multiverse approach" to evaluate the role of non-pharmaceutical inventions deployed during the pandemic to assess what worked and what didn't. TL;DR: not enough data.
+We use a["multiverse approach"](https://www.science.org/doi/10.1126/sciadv.adn0671) to evaluate the role of non-pharmaceutical inventions deployed during the pandemic to assess what worked and what didn't. TL;DR: not enough data.
 
 ## Exposome-wide studies
 
