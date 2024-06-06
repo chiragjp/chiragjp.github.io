@@ -5,7 +5,7 @@ listing:
   contents: posts
   sort: "date desc"
   type: table
-  categories: true
+  categories: false
   feed: true
   fields: [image, date, title]
 ---

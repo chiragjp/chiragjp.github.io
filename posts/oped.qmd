@@ -11,9 +11,7 @@ By Eran Bendavid and Chirag J. Patel
 
 [Published on STAT News, 6/5/2024](https://www.statnews.com/2024/06/05/100000-models-not-much-was-learned-stopping-covid-19-pandemic/)
 
-```{=html}
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Haven&#39;t we learned anything about stopping pandemics? When it comes to government policy and COVID-19, the answer is: &quot;no, we don&#39;t have the data.&quot; <br><br>I write an op-ed with Eran Bendavid in <a href="https://twitter.com/statnews?ref_src=twsrc%5Etfw">@statnews</a>: <a href="https://t.co/10tK7t1Aoo">https://t.co/10tK7t1Aoo</a> about our research paper in <a href="https://twitter.com/ScienceAdvances?ref_src=twsrc%5Etfw">@ScienceAdvances</a>:…</p>&mdash; Chirag Patel (@chiragjp) <a href="https://twitter.com/chiragjp/status/1798433772662063176?ref_src=twsrc%5Etfw">June 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
+
 In the midst of the Covid-19 pandemic, scientists and public health institutions made bold claims about the effectiveness of various policy responses such as closing schools and banning public gatherings. These claims shaped government responses and had enormous effects on the lives of billions of people around the world. Does the data support those claims?
 
 To answer that question, we explored whether patterns in the epidemiologic data could support claims made in the scientific literature and by public health institutions about the effectiveness of policy responses to Covid-19.
@@ -49,3 +47,7 @@ Claiming uncertainty goes against the grain of scientific norms, where the cultu
 Improving public health, and the public's trust in public health science, is a long and complicated journey. But one step along that road may be for scientists to take an honest look at their own claims to knowledge about the pandemic and the efforts to contain it. We believe that having greater willingness to say "We're not sure" will help regain trust in science. Matching the strength of claims to the strength of the evidence may increase the sense that the scientific community's primary allegiance is to the pursuit of truth above all else.
 
 Eran Bendavid is a professor of medicine at Stanford University. Chirag J. Patel is an associate professor of biomedical informatics at Harvard Medical School.
+
+```{=html}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Haven&#39;t we learned anything about stopping pandemics? When it comes to government policy and COVID-19, the answer is: &quot;no, we don&#39;t have the data.&quot; <br><br>I write an op-ed with Eran Bendavid in <a href="https://twitter.com/statnews?ref_src=twsrc%5Etfw">@statnews</a>: <a href="https://t.co/10tK7t1Aoo">https://t.co/10tK7t1Aoo</a> about our research paper in <a href="https://twitter.com/ScienceAdvances?ref_src=twsrc%5Etfw">@ScienceAdvances</a>:…</p>&mdash; Chirag Patel (@chiragjp) <a href="https://twitter.com/chiragjp/status/1798433772662063176?ref_src=twsrc%5Etfw">June 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
