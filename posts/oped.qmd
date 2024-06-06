@@ -1,7 +1,51 @@
 ---
-title: "Op-Ed"
-description: "Post description"
-author: "Fizz McPhee"
-date: "5/22/2021"
-draft: true
+title: "A multiverse approach to examine government policies in COVID-19"
+description: "1 vs 100000"
+author: "Chirag J Patel"
+date: "6/7/2024"
 ---
+
+Haven’t We Learned Anything About Stopping Pandemics?
+
+By Eran Bendavid and Chirag J. Patel
+
+[Published on STAT News, 6/5/2024](https://www.statnews.com/2024/06/05/100000-models-not-much-was-learned-stopping-covid-19-pandemic/)
+
+```{=html}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Haven&#39;t we learned anything about stopping pandemics? When it comes to government policy and COVID-19, the answer is: &quot;no, we don&#39;t have the data.&quot; <br><br>I write an op-ed with Eran Bendavid in <a href="https://twitter.com/statnews?ref_src=twsrc%5Etfw">@statnews</a>: <a href="https://t.co/10tK7t1Aoo">https://t.co/10tK7t1Aoo</a> about our research paper in <a href="https://twitter.com/ScienceAdvances?ref_src=twsrc%5Etfw">@ScienceAdvances</a>:…</p>&mdash; Chirag Patel (@chiragjp) <a href="https://twitter.com/chiragjp/status/1798433772662063176?ref_src=twsrc%5Etfw">June 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+In the midst of the Covid-19 pandemic, scientists and public health institutions made bold claims about the effectiveness of various policy responses such as closing schools and banning public gatherings. These claims shaped government responses and had enormous effects on the lives of billions of people around the world. Does the data support those claims?
+
+To answer that question, we explored whether patterns in the epidemiologic data could support claims made in the scientific literature and by public health institutions about the effectiveness of policy responses to Covid-19.
+
+We were optimistic we would find some policies that were consistently helpful. We thought the data would show that early shelter-in-place containment measures in the spring of 2020 were more effective in preventing deaths than those later in the pandemic; or that case numbers would not rise after restrictions on attending schools were lifted.
+
+That isn't what we found, as we describe today in a paper published in Science Advances.
+
+We studied a large number of hypotheses about Covid-19 policy impacts, without fear or favor. To do this, we used major sources of global data, including the University of Oxford's Covid-19 Government Response Tracker and the Johns Hopkins Covid-19 dashboard, on the use of any of 19 government responses in 181 countries in 2020 and 2021, and examined their relationship to four Covid-19 outcomes: cases, infections, deaths, and excess mortality. We modeled the policy effects in nearly 100,000 different ways, representing nearly 100,000 theories, each a flavor of a question about the effects of government responses to Covid-19. "Did stay-at-home policies flatten the curve?" or "Did closing schools decrease the spread of infections?" were among the hypotheses we tested. Each one of those relationships and theories are openly available. No matter how we approached these questions, the primary finding was lack of definitive patterns that could support claims about governmental policy impacts. About half the time, government policies were followed by better Covid-19 outcomes, and half of the time they were not. The findings were sometimes contradictory, with some policies appearing helpful when tested one way, and the same policy appearing harmful when tested another way. No claims about the relationship between government responses and pandemic outcomes held generally. Looking at stay-at-home policies and school closures, about half the time it looked like Covid-19 outcomes improved after their imposition, and half the time they got worse. Every policy, Covid-19 outcome, time period, and modeling approach yielded a similar level of uncertainty: about half the time it looked like things got better, and half the time like things got worse.
+
+Were there clearer impacts when we focused only on policies and responses that were deployed in early 2020, rather than all the way through the end of 2021? Or when looking at pandemic outcomes four weeks ahead rather that just two weeks? We examined policy effects in all these ways. No matter how we examined the data and changed the perspective on this question, the answer was uncertainty.
+
+Yet scientists used these data to make definitive conclusions.
+
+Claims that government responses made Covid-19 worse are not broadly true, and the same goes for claims that government responses were useless or ineffective. Claims that government responses help reduce the burden of Covid-19 are also not true. What is true is that there is no strong evidence to support claims about the impacts of the policies, one way or the other. Our results aren't a condemnation of government policies, but an acknowledgement of just how far the scientific data is capable of supporting these policies.
+
+Does finding no consistent patterns in the relationships between government policies and outcomes mean that the same number of Americans would have died in the absence of any government responses? Absolutely not: such responses may have saved lives. But it does mean a failure to learn with any confidence what these policies have done — which is essential for trying to contain the next pandemic — and that holding strong views about policy successes or failures during the pandemic is not backed by data.
+
+Could more have been done to test the impact of policies and monitor their effects? Probably not, given the state of the world and the rapidity of Covid-19's spread. But going forward, it would be helpful to learn more from this massive experience about how to inform policies with good data.
+
+We propose two ways that could improve the understanding of the effect of governmental policies, which, we believe, would improve the credibility of science in the process:
+
+First, set up data collection platforms for critical health measures, nationally (or in a representative sample) and prospectively. More seminal papers about the effect of public health policies came from Israel and Qatar — two countries that collected such data — than from any other place.
+
+Second, support more experimentation with public health policies. Good experiments yield credible data. Subjecting government responses to experimentation may be ethically thorny and often impractical, but subjecting millions of people to untested policies without strong scientific support for their benefits is also ethically charged. We believe that imposing policies backed by weak evidence contributed to the current state of distrust of the public health establishment.
+
+For many who watched the flurry of responses by various governments generate a chaotic trajectory of seemingly at-random pandemic waves, the conclusions from our research may seem banal: of course the effects of these policies are unclear.
+
+For us, however, claiming uncertainty goes against the grain of scientific norms. Nearly all scientific studies aim to strengthen support for a hypothesis. The same is true for the majority of Covid-19 policy models, with statements such as "major non-pharmaceutical interventions — and lockdowns in particular — have had a large effect on reducing transmission." We suggest the opposite. That at least as of now, weaker or no support for claims of knowledge about the effects of governmental policies on Covid-19 better reflects a synthesis of the data on this issue.
+
+Claiming uncertainty goes against the grain of scientific norms, where the culture often rewards strong and striking claims. Many studies of Covid-19 policy options were unduly definitive, with statements such as "major non-pharmaceutical interventions — and lockdowns in particular — have had a large effect on reducing transmission." In fact, the opposite is true: the data clearly indicate that the effects of these interventions aren't known and that, at least as of now, weaker or no support for claims of knowledge about the effects of governmental policies on Covid-19 better reflects a synthesis of the data on this issue.
+
+Improving public health, and the public's trust in public health science, is a long and complicated journey. But one step along that road may be for scientists to take an honest look at their own claims to knowledge about the pandemic and the efforts to contain it. We believe that having greater willingness to say "We're not sure" will help regain trust in science. Matching the strength of claims to the strength of the evidence may increase the sense that the scientific community's primary allegiance is to the pursuit of truth above all else.
+
+Eran Bendavid is a professor of medicine at Stanford University. Chirag J. Patel is an associate professor of biomedical informatics at Harvard Medical School.
