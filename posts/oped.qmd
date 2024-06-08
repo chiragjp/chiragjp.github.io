@@ -5,12 +5,17 @@ author: "Chirag J Patel"
 date: "6/7/2024"
 ---
 
-Haven’t We Learned Anything About Stopping Pandemics?
+```{=html}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Haven&#39;t we learned anything about stopping pandemics? When it comes to government policy and COVID-19, the answer is: &quot;no, we don&#39;t have the data.&quot; <br><br>I write an op-ed with Eran Bendavid in <a href="https://twitter.com/statnews?ref_src=twsrc%5Etfw">@statnews</a>: <a href="https://t.co/10tK7t1Aoo">https://t.co/10tK7t1Aoo</a> about our research paper in <a href="https://twitter.com/ScienceAdvances?ref_src=twsrc%5Etfw">@ScienceAdvances</a>:…</p>&mdash; Chirag Patel (@chiragjp) <a href="https://twitter.com/chiragjp/status/1798433772662063176?ref_src=twsrc%5Etfw">June 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
+## Haven’t We Learned Anything About Stopping Pandemics?
 
 By Eran Bendavid and Chirag J. Patel
 
 [Published on STAT News, 6/5/2024](https://www.statnews.com/2024/06/05/100000-models-not-much-was-learned-stopping-covid-19-pandemic/)
 
+[Published in Science Advances, 6/5/2024](https://www.science.org/doi/10.1126/sciadv.adn0671)
 
 In the midst of the Covid-19 pandemic, scientists and public health institutions made bold claims about the effectiveness of various policy responses such as closing schools and banning public gatherings. These claims shaped government responses and had enormous effects on the lives of billions of people around the world. Does the data support those claims?
 
@@ -48,6 +53,13 @@ Improving public health, and the public's trust in public health science, is a l
 
 Eran Bendavid is a professor of medicine at Stanford University. Chirag J. Patel is an associate professor of biomedical informatics at Harvard Medical School.
 
-```{=html}
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Haven&#39;t we learned anything about stopping pandemics? When it comes to government policy and COVID-19, the answer is: &quot;no, we don&#39;t have the data.&quot; <br><br>I write an op-ed with Eran Bendavid in <a href="https://twitter.com/statnews?ref_src=twsrc%5Etfw">@statnews</a>: <a href="https://t.co/10tK7t1Aoo">https://t.co/10tK7t1Aoo</a> about our research paper in <a href="https://twitter.com/ScienceAdvances?ref_src=twsrc%5Etfw">@ScienceAdvances</a>:…</p>&mdash; Chirag Patel (@chiragjp) <a href="https://twitter.com/chiragjp/status/1798433772662063176?ref_src=twsrc%5Etfw">June 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Browse the multiverse of COVID-19 policies
+
+```{=html} 
+<iframe id="PolicyApp" src="https://eranbendavid.shinyapps.io/CovidGovPolicies/" style="border: none; width: 100%; height: 1080px" frameborder="0"></iframe>
 ```
+
+
+
+
