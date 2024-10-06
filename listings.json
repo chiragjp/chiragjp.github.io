@@ -1,11 +1,5 @@
 [
   {
-    "listing": "/pubs.html",
-    "items": [
-      "/posts/oped.html"
-    ]
-  },
-  {
     "listing": "/members.html",
     "items": [
       "/members/chiragjp.html",
@@ -14,7 +8,15 @@
       "/members/shakson.html",
       "/members/sara.html",
       "/members/aashna.html",
-      "/members/randy.html"
+      "/members/randy.html",
+      "/members/braden.html"
+    ]
+  },
+  {
+    "listing": "/pubs.html",
+    "items": [
+      "/posts/oped.html",
+      "/posts/exwas.html"
     ]
   }
 ]

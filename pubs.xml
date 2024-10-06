@@ -26,6 +26,7 @@
 <p>By Eran Bendavid and Chirag J. Patel</p>
 <p><a href="https://www.statnews.com/2024/06/05/100000-models-not-much-was-learned-stopping-covid-19-pandemic/">Published on STAT News, 6/5/2024</a></p>
 <p><a href="https://www.science.org/doi/10.1126/sciadv.adn0671">Published in Science Advances, 6/5/2024</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="164234372"></div>
 <p>In the midst of the Covid-19 pandemic, scientists and public health institutions made bold claims about the effectiveness of various policy responses such as closing schools and banning public gatherings. These claims shaped government responses and had enormous effects on the lives of billions of people around the world. Does the data support those claims?</p>
 <p>To answer that question, we explored whether patterns in the epidemiologic data could support claims made in the scientific literature and by public health institutions about the effectiveness of policy responses to Covid-19.</p>
 <p>We were optimistic we would find some policies that were consistently helpful. We thought the data would show that early shelter-in-place containment measures in the spring of 2020 were more effective in preventing deaths than those later in the pandemic; or that case numbers would not rise after restrictions on attending schools were lifted.</p>
@@ -44,6 +45,12 @@
 <p>Claiming uncertainty goes against the grain of scientific norms, where the culture often rewards strong and striking claims. Many studies of Covid-19 policy options were unduly definitive, with statements such as “major non-pharmaceutical interventions — and lockdowns in particular — have had a large effect on reducing transmission.” In fact, the opposite is true: the data clearly indicate that the effects of these interventions aren’t known and that, at least as of now, weaker or no support for claims of knowledge about the effects of governmental policies on Covid-19 better reflects a synthesis of the data on this issue.</p>
 <p>Improving public health, and the public’s trust in public health science, is a long and complicated journey. But one step along that road may be for scientists to take an honest look at their own claims to knowledge about the pandemic and the efforts to contain it. We believe that having greater willingness to say “We’re not sure” will help regain trust in science. Matching the strength of claims to the strength of the evidence may increase the sense that the scientific community’s primary allegiance is to the pursuit of truth above all else.</p>
 <p>Eran Bendavid is a professor of medicine at Stanford University. Chirag J. Patel is an associate professor of biomedical informatics at Harvard Medical School.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.chiragjpgroup.org/img/sciadv.adn0671-f2.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<figcaption>Portion of models with point estimates in the helpful or unhelpful direction, by group</figcaption>
+</figure>
+</div>
 </section>
 <section id="browse-the-multiverse-of-covid-19-policies" class="level2">
 <h2 class="anchored" data-anchor-id="browse-the-multiverse-of-covid-19-policies">Browse the multiverse of COVID-19 policies</h2>
@@ -55,6 +62,78 @@
  ]]></description>
   <guid>https://www.chiragjpgroup.org/posts/oped.html</guid>
   <pubDate>Fri, 07 Jun 2024 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Exposure-wide associations to map exposures to phenotypes</title>
+  <dc:creator>Chirag J Patel</dc:creator>
+  <link>https://www.chiragjpgroup.org/posts/exwas.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="data-science-approaches-to-tackle-the-complexity-of-exposomics-data-use-cases-and-models" class="level3">
+<h3 class="anchored" data-anchor-id="data-science-approaches-to-tackle-the-complexity-of-exposomics-data-use-cases-and-models">Data Science Approaches to Tackle the Complexity of Exposomics: Data, Use Cases, and Models</h3>
+<section id="introduction" class="level4">
+<h4 class="anchored" data-anchor-id="introduction">Introduction</h4>
+<p>The field of exposomics represents a transformative approach in understanding how environmental exposures influence human health. Traditional paradigms of environmental health, which focus on single exposure-outcome relationships, are evolving to incorporate complex, multifaceted exposures and their interactions with genetic factors. This essay explores data science methodologies and their application to exposomics, emphasizing key questions, models, and the need for comprehensive data resources.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.chiragjpgroup.org/img/corrglobe.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="472"></p>
+<figcaption>Correlation Globe (Originally published by Chung et al, ES&amp;T 2018)</figcaption>
+</figure>
+</div>
+</section>
+<section id="environmental-health-and-exposomics" class="level4">
+<h4 class="anchored" data-anchor-id="environmental-health-and-exposomics">Environmental Health and Exposomics</h4>
+<p>Environmental health has traditionally centered on identifying causality and risk associated with single exposures. However, the exposome encompasses the totality of environmental exposures from conception onwards, necessitating advanced approaches to understand its impact on health. The exposome includes diverse modalities such as chemicals, diet, lifestyle, and socioeconomic factors, all of which interact in complex ways.</p>
+</section>
+<section id="key-questions-in-exposomic-research" class="level4">
+<h4 class="anchored" data-anchor-id="key-questions-in-exposomic-research">Key Questions in Exposomic Research</h4>
+<ol type="1">
+<li><strong>How much variation in disease can be attributed to environmental exposures?</strong></li>
+<li><strong>What specific factors of the exposome are associated with disease?</strong></li>
+</ol>
+<p>These questions drive the need for robust data science approaches to parse out the contributions of shared and non-shared environmental factors, gene-environment interactions, and the aggregate effect of multiple exposures.</p>
+</section>
+<section id="data-science-resources-for-exposomics" class="level4">
+<h4 class="anchored" data-anchor-id="data-science-resources-for-exposomics">Data Science Resources for Exposomics</h4>
+<p>To address these questions, exposomic research requires extensive cohort data that include measures of the exposome, genome, and phenome. Large-scale studies like NHANES and the UK Biobank provide rich datasets for analyzing the complex interactions between genes and the environment.</p>
+</section>
+<section id="exposome-wide-association-studies-exwas" class="level4">
+<h4 class="anchored" data-anchor-id="exposome-wide-association-studies-exwas">Exposome-Wide Association Studies (ExWAS)</h4>
+<p>ExWAS is a pivotal methodology in exposomics, analogous to genome-wide association studies (GWAS) in genetics. It systematically examines the relationships between numerous environmental exposures and health outcomes. This data-driven approach allows for the identification of significant associations while controlling for multiple comparisons, making it a powerful tool for discovery in exposomics.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.chiragjpgroup.org/img/exwas_considerations.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="634"></p>
+<figcaption>ExWAS Considerations (from Chung et al, Exposome 2024)</figcaption>
+</figure>
+</div>
+</section>
+<section id="the-complexity-of-the-exposome" class="level4">
+<h4 class="anchored" data-anchor-id="the-complexity-of-the-exposome">The Complexity of the Exposome</h4>
+<p>The exposome’s complexity arises from its time-dependent, correlated, and interactive nature. Different modalities of exposure, such as chemicals, physical activity, and socioeconomic status, must be considered collectively to understand their impact on health. The architecture of the exposome includes both shared and non-shared environmental factors, requiring sophisticated statistical models to disentangle these effects.</p>
+</section>
+<section id="methodological-advances" class="level4">
+<h4 class="anchored" data-anchor-id="methodological-advances">Methodological Advances</h4>
+<p>Recent advances in data science have enabled the development of models that can handle the complexity of exposomic data. Techniques such as machine learning, regression models, and mixed models are employed to analyze the dense correlation structures and sparsity of exposure data. Additionally, methods to control for false discovery rates and variable selection are critical to ensuring the robustness of findings.</p>
+</section>
+<section id="exposome-phenome-atlas" class="level4">
+<h4 class="anchored" data-anchor-id="exposome-phenome-atlas">Exposome-Phenome Atlas</h4>
+<p>One of the significant advancements in exposomics is the creation of an exposome-phenome atlas. This comprehensive database maps the relationships between various exposures and phenotypes, providing a valuable resource for researchers. By performing ExWAS across multiple cohorts, this atlas facilitates the identification of consistent and replicable associations, enhancing our understanding of how environmental factors contribute to disease.</p>
+</section>
+<section id="conclusions" class="level4">
+<h4 class="anchored" data-anchor-id="conclusions">Conclusions</h4>
+<p>The integration of data science methodologies into exposomic research represents a paradigm shift in environmental health. By leveraging large-scale cohort data and advanced analytical techniques, researchers can uncover the intricate relationships between environmental exposures and health outcomes. This approach not only enhances our understanding of disease etiology but also informs precision public health interventions aimed at reducing the burden of environmental diseases.</p>
+<p>Acknowledgements to collaborators and funding support from NIEHS, NIA, NIDDK, and NIAID.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <guid>https://www.chiragjpgroup.org/posts/exwas.html</guid>
+  <pubDate>Thu, 30 May 2024 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
