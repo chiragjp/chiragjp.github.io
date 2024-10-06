@@ -1,0 +1,20 @@
+---
+title: "Braden T Tierney, PhD"
+subtitle: "Director of Exposomics and Microbial Data Sciences"
+description: "Omics from Earth to Space"
+author: "Chirag"
+image: /img/braden.jpeg
+date: "10/9/2024"
+about:
+  template: trestles
+  image: /img/braden.jpeg
+categories:
+  - exposome
+  - metagenome
+---
+
+Please visit:
+
+-   <https://www.bradentierney.com>
+
+-   <https://twofrontiers.org>

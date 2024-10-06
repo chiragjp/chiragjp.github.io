@@ -8,18 +8,23 @@ about:
 
 ## Contact us
 
-{{< fa envelope >}}:[chirag@hms.harvard.edu](mailto:chirag@hms.harvard.edu)
+{{< fa envelope >}}:[chirag\@hms.harvard.edu](mailto:chirag@hms.harvard.edu)
 
-{{< fa brands twitter >}}:[@chiragjp](https://twitter.com/chiragjp)
-
-
+{{< fa brands twitter >}}:[\@chiragjp](https://twitter.com/chiragjp)
 
 ## Current Research Support
-- [National Institutes of Health](https://reporter.nih.gov/PISearch/9643320)
+
+-   [National Institutes of Health](https://reporter.nih.gov/PISearch/9643320)
 
 -   [NIEHS R01](https://reporter.nih.gov/project-details/10487388) ES032470
 
 -   [NIA RF1](https://reporter.nih.gov/project-details/10448053) AG074372
+
+-   [NIDDK R01](https://reporter.nih.gov/project-details/10978543) DK137993
+
+-   [NIEHS U24](https://reporter.nih.gov/project-details/10993456) ES036819
+
+-   ARPA-H D24AC00345
 
 ## Past Research Support
 
@@ -27,9 +32,9 @@ about:
 
 -   [NIDDK T32](https://reporter.nih.gov/project-details/9773034) DK110919
 
-- National Science Foundation
--   NIEHS R21, K99/R00
+-   National Science Foundation
 
+-   NIEHS R21, K99/R00
 
 [Harvard Data Science Institute](https://datascience.harvard.edu)
 
@@ -51,7 +56,7 @@ Boston, MA. 02115
 
 </iframe>
 
-This website is built with [Quarto](https://quarto.org). 
+This website is built with [Quarto](https://quarto.org).
 
 ::: {layout-ncol="1"}
 ![](img/Blavatnikbioinformatics.png){width="600"}

@@ -4,7 +4,7 @@ listing:
   id: main-listing
   contents: posts
   sort: "date desc"
-  type: table
+  type: grid
   categories: false
   feed: true
   fields: [image, date, title]
