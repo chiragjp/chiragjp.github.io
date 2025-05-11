@@ -1,0 +1,10 @@
+---
+title: "Dillon Lloyd, PhD"
+subtitle: "Post-doctoral Fellow"
+description: "data science approaches for exposomics"
+author: "Chirag"
+image: /img/dillon.png
+date: "1/9/2024"
+categories:
+  - exposome
+---

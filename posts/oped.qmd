@@ -8,6 +8,7 @@ date: "6/7/2024"
 ```{=html}
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Haven&#39;t we learned anything about stopping pandemics? When it comes to government policy and COVID-19, the answer is: &quot;no, we don&#39;t have the data.&quot; <br><br>I write an op-ed with Eran Bendavid in <a href="https://twitter.com/statnews?ref_src=twsrc%5Etfw">@statnews</a>: <a href="https://t.co/10tK7t1Aoo">https://t.co/10tK7t1Aoo</a> about our research paper in <a href="https://twitter.com/ScienceAdvances?ref_src=twsrc%5Etfw">@ScienceAdvances</a>:…</p>&mdash; Chirag Patel (@chiragjp) <a href="https://twitter.com/chiragjp/status/1798433772662063176?ref_src=twsrc%5Etfw">June 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ```
+
 ## Haven’t We Learned Anything About Stopping Pandemics?
 
 By Eran Bendavid and Chirag J. Patel
@@ -19,6 +20,7 @@ By Eran Bendavid and Chirag J. Patel
 ```{=html}
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="164234372"></div>
 ```
+
 In the midst of the Covid-19 pandemic, scientists and public health institutions made bold claims about the effectiveness of various policy responses such as closing schools and banning public gatherings. These claims shaped government responses and had enormous effects on the lives of billions of people around the world. Does the data support those claims?
 
 To answer that question, we explored whether patterns in the epidemiologic data could support claims made in the scientific literature and by public health institutions about the effectiveness of policy responses to Covid-19.

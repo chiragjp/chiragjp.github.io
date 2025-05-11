@@ -6,19 +6,19 @@ title: Resources
 
 The NEXUS (**N**etwork of **EX**posomics in the **U**nited **S**tates) is a Center for Exposome Research Coordination (CERC). The center aims to serve the broad biomedical research community by orchestrating the advancement and promotion of exposome research. The center is supported by the National Institutes of Health under grant number [**U24ES036819**](https://reporter.nih.gov/project-details/10993456 "NIH Reporter").
 
-### [Machine Learning and Biological Age](https://www.multidimensionality-of-aging.net)
-
-Biological age is the deviation from chronological age and is hypothesized to be one causal factor for age-related disease. Biological age, however, is difficult to measure. Here, we analyzed 676,787 samples from 502,211 UK Biobank participants aged 37-82 years with deep learning artificial intelligence approaches to build a total of 331 biological age predictors on different data modalities (e.g., Magnetic Resonance Imaging)
-
 ### [The Confluence Projects](https://www.confluence-project.org)
 
 Analytics and data resources to study the geospatial exposome in exacerbating health outcomes of the elderly population.
 
-### [Probing the space of COVID-19 non-pharmaceutical interventions](https://eranbendavid.shinyapps.io/CovidGovPolicies/ "Multiverse of COVID-19")
-
-We use a["multiverse approach"](https://www.science.org/doi/10.1126/sciadv.adn0671) to evaluate the role of non-pharmaceutical inventions deployed during the pandemic to assess what worked and what didn't. TL;DR: not enough data.
-
 ## Exposome-wide studies
+
+### [Human Exposomic Architecture of the Proteome](https://heap.bio)
+
+HEAP (Human Exposomic Architecture of the Proteome) is a comprehensive tool designed to analyze the interactions between genetics, exposures, proteomics, and disease outcomes. It leverages data from the UK Biobank to provide insights into how various factors contribute to health and disease.
+
+### [The Architecture of Physiological Phenotypes: Exposome-Phenome Atlas](http://apps.chiragjpgroup.org/pe_atlas/)
+
+How much variation do exposures explain in phenotype? This is an atlas of 127K correlations between 278 phenotypes (e.g., body mass index, glucose, height, creatinine) and 651 exposures and behaviors (e.g., self-reported nutrient intake; blood lead levels; urinary phthalates; blood PFOA) in healthy individuals of the United States.
 
 ### [Claims Analysis of Twins Correlation and Heritability](http://apps.chiragjpgroup.org/catch/)
 
@@ -27,18 +27,6 @@ We estimate the relative contribution of genetics and shared exposome in 560 phe
 ### [Exposome Globe Browser](http://bit.ly/globebrowse)
 
 What is the "linkage disequilibrium" of the exposome? View how biomarkers of exposures are correlated with one another and disease-related phenotypes.
-
-### [HIV+ Exposure-wide study across Sub-Saharan Africa](https://www.chiragjpgroup.org/dhs_hiv_meta/)
-
-Predisposition to become HIV positive (HIV + ) is influenced by a wide range of correlated economic, environmental, demographic, social, and behavioral factors. A data-driven approach to identify risk factors for HIV+ in across Sub-Saharan Africa in over 600,000 individuals.
-
-### [Non-linear relationships between physiological indicators and all-cause mortality in the US](https://chiragjp.shinyapps.io/%20nhanes_mortality_associations/)
-
-We document linear and non-linear relationships of 27 physiological indicators with all-cause mortality to evaluate whether the current clinical thresholds are suitable in distinguishing patients at high risk for mortality from those at low risk.
-
-### [Data-driven characterization of exposome risk variables for type 2 diabetes in the Netherlands](https://chiragjp.shinyapps.io/t2d_relative_risk_variables/)
-
-We query for environmental and modifiable drivers of tpe 2 diabetes risk in the Lifelines Biobank Cohort.
 
 ## Databases
 
@@ -51,6 +39,14 @@ Developing new computational approach for predicting new drug repositioning cand
 MeSHDD uses MeSH-term enrichment to discover literature-based similarities between FDA approved drugs.
 
 ## Software
+
+### [Exposome Atlas Creation](https://github.com/chiragjp/nhanespewas)
+
+Software to document exposome-phenome correlations and systematically assesses replicability across independent cohorts.
+
+### [Human Exposomic Architecture of the Proteome](https://github.com/shakson-isaac/HEAP)
+
+Software to develop associations between the exposome and proteome, considering GxE, mediation, and longitudinal outcomes.
 
 ### [Vibration of Effects](https://www.chiragjpgroup.org/voe/)
 
@@ -67,3 +63,27 @@ PXStools provides an analytical package to standardize exposome-wide studies as 
 ## Course Materials
 
 {{< fa brands github >}} Course materials and starter code for exposome-phenome data analysis.
+
+## Other Resources
+
+### [Machine Learning and Biological Age](https://www.multidimensionality-of-aging.net)
+
+Biological age is the deviation from chronological age and is hypothesized to be one causal factor for age-related disease. Biological age, however, is difficult to measure. Here, we analyzed 676,787 samples from 502,211 UK Biobank participants aged 37-82 years with deep learning artificial intelligence approaches to build a total of 331 biological age predictors on different data modalities (e.g., Magnetic Resonance Imaging)
+
+### [HIV+ Exposure-wide study across Sub-Saharan Africa](https://www.chiragjpgroup.org/dhs_hiv_meta/)
+
+Predisposition to become HIV positive (HIV + ) is influenced by a wide range of correlated economic, environmental, demographic, social, and behavioral factors. A data-driven approach to identify risk factors for HIV+ in across Sub-Saharan Africa in over 600,000 individuals.
+
+### [Non-linear relationships between physiological indicators and all-cause mortality in the US](https://chiragjp.shinyapps.io/%20nhanes_mortality_associations/)
+
+We document linear and non-linear relationships of 27 physiological indicators with all-cause mortality to evaluate whether the current clinical thresholds are suitable in distinguishing patients at high risk for mortality from those at low risk.
+
+### [Data-driven characterization of exposome risk variables for type 2 diabetes in the Netherlands](https://chiragjp.shinyapps.io/t2d_relative_risk_variables/)
+
+We query for environmental and modifiable drivers of tpe 2 diabetes risk in the Lifelines Biobank Cohort.
+
+### [Probing the space of COVID-19 non-pharmaceutical interventions](https://eranbendavid.shinyapps.io/CovidGovPolicies/ "Multiverse of COVID-19")
+
+We use a["multiverse approach"](https://www.science.org/doi/10.1126/sciadv.adn0671) to evaluate the role of non-pharmaceutical inventions deployed during the pandemic to assess what worked and what didn't. TL;DR: not enough data.
+
+## 

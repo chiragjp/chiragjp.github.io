@@ -1,0 +1,13 @@
+---
+title: "Sivateja Tangirala"
+subtitle: "Research Associate"
+description: "gene-by-environment interactions"
+author: "Chirag"
+image: /img/sivateja.JPG
+date: "1/7/2023"
+categories:
+  - hertibility
+  - gene-by-exposome
+  - multi-omics
+  - interventions
+---
