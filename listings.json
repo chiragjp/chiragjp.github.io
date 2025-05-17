@@ -1,22 +1,23 @@
 [
   {
+    "listing": "/pubs.html",
+    "items": [
+      "/posts/oped.html",
+      "/posts/exwas.html"
+    ]
+  },
+  {
     "listing": "/members.html",
     "items": [
       "/members/chiragjp.html",
       "/members/shakson.html",
+      "/members/raghav.html",
       "/members/sivateja.html",
       "/members/sara.html",
       "/members/aashna.html",
       "/members/randy.html",
       "/members/dillon.html",
       "/members/braden.html"
-    ]
-  },
-  {
-    "listing": "/pubs.html",
-    "items": [
-      "/posts/oped.html",
-      "/posts/exwas.html"
     ]
   }
 ]
