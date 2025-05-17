@@ -1,0 +1,14 @@
+---
+title: "Raghav Tandon, PhD"
+subtitle: "Post-Doctoral Associate"
+description: "gene-by-environment interactions"
+author: "Chirag"
+image: /img/raghav.png
+date: "1/7/2023"
+categories:
+  - dementia
+  - gene-by-exposome
+  - multi-omics
+  - geospatial
+  - behavior
+---
