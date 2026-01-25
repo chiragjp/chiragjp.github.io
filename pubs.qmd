@@ -17,14 +17,6 @@ format:
 
 Our work spans from developing foundational meta-science methods to high-resolution mapping of the human exposome and personal health trajectories.
 
-## Foundational Meta-Science & Robustness
-
-**[Vibration of Effects in Observational Research](https://doi.org/10.1016/j.jclinepi.2015.03.029)** *Patel et al., J Clin Epidemiol, 2015* Introduced the "Vibration of Effects" (VoE) framework to quantify how statistical choices change study outcomes. This paper underpins our group's focus on reproducible research.  
-[Altmetric: 1706](https://scienceadvances.altmetric.com/details/164234372)
-
-**[Systematically Assessing Drivers of Inconsistency in Metagenomics](https://doi.org/10.1371/journal.pbio.3001556)** *Tierney et al., PLoS Biology, 2022* We re-analyzed 581 microbiome–disease associations to demonstrate how analytic choices drive conflicting results, providing a template for robust discovery in high-dimensional data.
-
----
 
 ## Mapping the Global Exposome-Phenome
 
@@ -46,6 +38,16 @@ Our work spans from developing foundational meta-science methods to high-resolut
 **[Timing and Consistency of Physical Activity](https://doi.org/10.1007/s00125-023-05991-w)** *Tian et al., Diabetologia, 2023* Proved that high-resolution behavioral timing (accelerometry) is a critical, modifiable risk factor for diabetes, informing precision lifestyle guidance.  
 [Altmetric: 630](https://link.springer.com/article/10.1007/s00125-023-05991-w)
 
+---
+
+## Foundational Meta-Science & Robustness
+
+**[Vibration of Effects in Observational Research](https://doi.org/10.1016/j.jclinepi.2015.03.029)** *Patel et al., J Clin Epidemiol, 2015* Introduced the "Vibration of Effects" (VoE) framework to quantify how statistical choices change study outcomes. This paper underpins our group's focus on reproducible research.  
+
+**[Systematically Assessing Drivers of Inconsistency in Metagenomics](https://doi.org/10.1371/journal.pbio.3001556)** *Tierney et al., PLoS Biology, 2022* We re-analyzed 581 microbiome–disease associations to demonstrate how analytic choices drive conflicting results, providing a template for robust discovery in high-dimensional data.
+
+**[Epidemic outcomes following government responses to COVID-19: Insights from nearly 100,000 models](https://www.science.org/doi/10.1126/sciadv.adn0671)** The extent to which responses—such as school closures—were associated with changes in COVID-19 outcomes remains unsettled. Here we use a meta-research approach to examine robustness of findings of government responses. 
+[Altmetric: 1706](https://scienceadvances.altmetric.com/details/164234372)
 ---
 
 ## Future Directions: From Observation to Translation
