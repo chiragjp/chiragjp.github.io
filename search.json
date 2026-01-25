@@ -56,13 +56,6 @@
     "text": "Our work spans from developing foundational meta-science methods to high-resolution mapping of the human exposome and personal health trajectories."
   },
   {
-    "objectID": "pubs.html#foundational-meta-science-robustness",
-    "href": "pubs.html#foundational-meta-science-robustness",
-    "title": "Op-eds",
-    "section": "Foundational Meta-Science & Robustness",
-    "text": "Foundational Meta-Science & Robustness\nVibration of Effects in Observational Research Patel et al., J Clin Epidemiol, 2015 Introduced the “Vibration of Effects” (VoE) framework to quantify how statistical choices change study outcomes. This paper underpins our group’s focus on reproducible research.\nAltmetric: 1706\nSystematically Assessing Drivers of Inconsistency in Metagenomics Tierney et al., PLoS Biology, 2022 We re-analyzed 581 microbiome–disease associations to demonstrate how analytic choices drive conflicting results, providing a template for robust discovery in high-dimensional data."
-  },
-  {
     "objectID": "pubs.html#mapping-the-global-exposome-phenome",
     "href": "pubs.html#mapping-the-global-exposome-phenome",
     "title": "Op-eds",
@@ -75,6 +68,13 @@
     "title": "Op-eds",
     "section": "Precision Prevention & Predictive Modeling",
     "text": "Precision Prevention & Predictive Modeling\nPolyexposure Scores in Risk Prediction of Type 2 Diabetes He et al., Diabetes Care, 2021 Formalized “polyexposure risk scores” as a clinical counterpart to genetics, quantifying how much incremental information the exposome adds to diabetes prediction.\nUsing Deep Learning to Predict Abdominal Age from MRI Le Goallec et al., Nature Communications, 2022 Developed AI to predict “organ-specific age,” linking structural changes in the liver and pancreas to metabolic and cardiometabolic risk.\nTiming and Consistency of Physical Activity Tian et al., Diabetologia, 2023 Proved that high-resolution behavioral timing (accelerometry) is a critical, modifiable risk factor for diabetes, informing precision lifestyle guidance.\nAltmetric: 630"
+  },
+  {
+    "objectID": "pubs.html#foundational-meta-science-robustness",
+    "href": "pubs.html#foundational-meta-science-robustness",
+    "title": "Op-eds",
+    "section": "Foundational Meta-Science & Robustness",
+    "text": "Foundational Meta-Science & Robustness\nVibration of Effects in Observational Research Patel et al., J Clin Epidemiol, 2015 Introduced the “Vibration of Effects” (VoE) framework to quantify how statistical choices change study outcomes. This paper underpins our group’s focus on reproducible research.\nSystematically Assessing Drivers of Inconsistency in Metagenomics Tierney et al., PLoS Biology, 2022 We re-analyzed 581 microbiome–disease associations to demonstrate how analytic choices drive conflicting results, providing a template for robust discovery in high-dimensional data.\nEpidemic outcomes following government responses to COVID-19: Insights from nearly 100,000 models The extent to which responses—such as school closures—were associated with changes in COVID-19 outcomes remains unsettled. Here we use a meta-research approach to examine robustness of findings of government responses. Altmetric: 1706"
   },
   {
     "objectID": "pubs.html#future-directions-from-observation-to-translation",
