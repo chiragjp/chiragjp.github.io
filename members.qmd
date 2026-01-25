@@ -23,26 +23,30 @@ listing:
 |    Ambika Grover | 2024-     | Harvard College |
 | Harkirat Bhullar | 2022-2023 | Harvard College |
 |  Adithya Madduri | 2024-     | Harvard College |
+|  Akshaya Ravi    | 2025-     | Harvard College |
 
 ## [Summer Institute of Biomedical Informatics](https://dbmi.hms.harvard.edu/education/summer-institute-biomedical-informatics)
 
 |  |  |  |
 |---------------|---------------|-------------------------------------------|
-| Sivateja Tangirala | 2016- | Cornell University (a MBI Student at [Harvard MBI](https://dbmi.hms.harvard.edu/education/master-biomedical-informatics), and now research associate in the group) |
-| Christina Baek | 2017 | UC Berkeley (Now a CS PhD student Carnegie Mellon University) |
+| Sivateja Tangirala | 2016- | Cornell  (a MBI Student at [Harvard MBI](https://dbmi.hms.harvard.edu/education/master-biomedical-informatics), and now research associate in the group) |
+| Christina Baek | 2017 | UC Berkeley (Now a CS PhD student Carnegie Mellon) |
 | Rolando Acosta Jr, PhD | 2016 | University of Puerto Rico, Humacao (PhD at Harvard Chan School of Public Health, now a biostatistician at Regeneron) |
-| Shreyas Bhave | 2016 | UC Berkeley (Now a BMI PhD student Columbia University) |
-| Sanket Mehta | 2018 | Rice University (Now a MD/PhD student at Columbia University) |
-| Jessie Chen | 2019 | Loyola University (Now a MD student, Loyola University Chicago) |
-| Jason Tan | 2019 | Rice University (Now a CS PhD student, Stanford University) |
-| Elizabeth Cook Anderson | 2021 | Brigham Young University (Now a Quantitative Biology PhD student Dartmouth University) |
-| Nuno Carvalho | 2022- | Georgia Tech University (Now a Bioinformatics and Integrative Genomics student, Harvard Medical School) |
+| Shreyas Bhave | 2016 | UC Berkeley (Now a BMI PhD student Columbia) |
+| Sanket Mehta | 2018 | Rice(Now a MD/PhD student at Columbia) |
+| Jessie Chen | 2019 | Loyola  (Now a MD student, Loyola Chicago) |
+| Jason Tan | 2019 | Rice (Now a CS PhD student, Stanford) |
+| Elizabeth Cook Anderson | 2021 | Brigham Young (Now a Quantitative Biology PhD student Dartmouth) |
+| Nuno Carvalho | 2022- | Georgia Tech (Now a Bioinformatics and Integrative Genomics student, Harvard Medical School) |
 | Taykhoom Dalal | 2022-2023 | UCLA (Now a Bioinformatics PhD student, Cornell Tech) |
 | Johnathan Shih | 2022 | Texas A&M |
 | Chloe McCreery | 2022 | MIT (Now an MD student) |
 | Pia Davis | 2023 | Barnard College |
-| Neha Dantuluri | 2023 | University of South Florida (Now a MS Student, Harvard Medical School) |
+| Neha Dantuluri | 2023 | South Florida (Now a MS Student, Harvard Medical School) |
 | Adway Wadekar | 2024 | Duke |
+| Krithik Vishwanath | 2025 | Texas (Now a Churchill Fellow) |
+| Helen Qian | 2025 | Cornell |
+| Youssef Gehad | 2024 | Rice |
 
 ## Master's Students
 
@@ -60,6 +64,8 @@ listing:
 | Yumin Wang | 2022-2023 | [Masters of Biomedical Informatics](https://dbmi.hms.harvard.edu/education/master-biomedical-informatics), Harvard Medical School (now PhD student at USC) |
 | Renhao Luo | 2022-2023 | [Masters of Biomedical Informatics](https://dbmi.hms.harvard.edu/education/master-biomedical-informatics), Harvard Medical School (now PhD student at Scripps) |
 | Tom Mery | 2024 | [Masters of Data Science](https://www.epfl.ch/education/master/programs/data-science/), Ecole Polytechnique federale de Lausanne, Lausanne Switzerland |
+| Stephanie Chen | 2025 | [Masters of Biomedical Informatics](https://dbmi.hms.harvard.edu/education/master-biomedical-informatics), Harvard Medical School |
+
 
 ## Alumni
 

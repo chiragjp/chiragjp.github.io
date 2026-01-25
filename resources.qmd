@@ -16,11 +16,11 @@ Analytics and data resources to study the geospatial exposome in exacerbating he
 
 HEAP (Human Exposomic Architecture of the Proteome) is a comprehensive tool designed to analyze the interactions between genetics, exposures, proteomics, and disease outcomes. It leverages data from the UK Biobank to provide insights into how various factors contribute to health and disease.
 
-### [The Architecture of Physiological Phenotypes: Exposome-Phenome Atlas](http://apps.chiragjpgroup.org/pe_atlas/)
+### [The Architecture of Physiological Phenotypes: Exposome-Phenome Atlas](https://pe.exposomeatlas.com)
 
-How much variation do exposures explain in phenotype? This is an atlas of 127K correlations between 278 phenotypes (e.g., body mass index, glucose, height, creatinine) and 651 exposures and behaviors (e.g., self-reported nutrient intake; blood lead levels; urinary phthalates; blood PFOA) in healthy individuals of the United States.
+How much variation do exposures explain in phenotype? This is an atlas of exposome-clinical phenotype relationships, demonstrating the complex role of the exposome in health and disease risk.
 
-### [Claims Analysis of Twins Correlation and Heritability](http://apps.chiragjpgroup.org/catch/)
+### [Claims Analysis of Twins Correlation and Heritability](https://catch.exposomeatlas.com)
 
 We estimate the relative contribution of genetics and shared exposome in 560 phenotypes in a large health insurance cohort analyzing data from \~60,000 twins and \~500,000 siblings.
 
@@ -80,7 +80,7 @@ We document linear and non-linear relationships of 27 physiological indicators w
 
 ### [Data-driven characterization of exposome risk variables for type 2 diabetes in the Netherlands](https://chiragjp.shinyapps.io/t2d_relative_risk_variables/)
 
-We query for environmental and modifiable drivers of tpe 2 diabetes risk in the Lifelines Biobank Cohort.
+We query for environmental and modifiable drivers of type 2 diabetes risk in the Lifelines Biobank Cohort.
 
 ### [Probing the space of COVID-19 non-pharmaceutical interventions](https://eranbendavid.shinyapps.io/CovidGovPolicies/ "Multiverse of COVID-19")
 
